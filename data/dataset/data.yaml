@@ -1,0 +1,15 @@
+path: D:\EdgeAI\warm-up\data\dataset
+train: images/train
+val: images/val
+nc: 10
+names:
+  0: person
+  1: bicycle
+  2: motorcycle
+  3: car
+  4: bus
+  5: truck
+  6: traffic_light
+  7: stop_sign
+  8: crossing_warning_sign
+  9: zebra_crossing
